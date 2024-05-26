@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\obj\Debug\net8.0\Agiletask5Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\obj\Debug\net8.0\Agiletask5Second.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\obj\Debug\net8.0\Agiletask5Second.AssemblyInfo.cs
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\obj\Debug\net8.0\Agiletask5Second.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\obj\Debug\net8.0\Agiletask5Second.sourcelink.json
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\bin\Debug\net8.0\Agiletask5Second.exe
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\bin\Debug\net8.0\Agiletask5Second.deps.json
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\bin\Debug\net8.0\Agiletask5Second.runtimeconfig.json
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\bin\Debug\net8.0\Agiletask5Second.dll
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\bin\Debug\net8.0\Agiletask5Second.pdb
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\obj\Debug\net8.0\Agiletask5Second.dll
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\obj\Debug\net8.0\refint\Agiletask5Second.dll
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\obj\Debug\net8.0\Agiletask5Second.pdb
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\obj\Debug\net8.0\Agiletask5Second.genruntimeconfig.cache
+C:\Users\hp\Desktop\Agiletask2\Agiletask5Second\Agiletask5Second\obj\Debug\net8.0\ref\Agiletask5Second.dll
